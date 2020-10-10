@@ -1,7 +1,7 @@
 ﻿county,cases,deaths,Population Density (people/mi^2),Diabetes Prevalence 2012 Both Sexes (%),Overall sufficient physical activity  prevalence 2011* (%),Overall obesity prevalence 2011* (%),Heavy Alcohol Consumption (%) 2012 (Heavy- past 30 days 1drink/day for women 2 for men),Binge Alcohol Consumption (%) 2012  (Binge- past 30 days >4 drinks one occasion >5 for men),,LandArea (mi^2),Population,"Male sufficient physical activity  prevalence, 2011* (%)","Female sufficient physical activity  prevalence, 2011* (%)","Male obesity  prevalence, 2011* (%)","Female obesity prevalence, 2011* (%)"
-Autauga,1863,28,92.42336515,15.45,50.2,38.0,6.3,13.2,,604.49,"55,869",52.9,47.5,37.1,38.8
-Baldwin,6141,64,110.1258954,13.44,51.85,33.7,9.3,16.9,,2027.08,"223,234",54.1,49.6,33.5,33.9
-Barbour,927,9,27.28971136,19.36,40.35,46.6,6.4,12.4,,904.59,"24,686",44.9,35.8,41.5,51.6
+Autauga AL,1863,28,92.42336515,15.45,50.2,38.0,6.3,13.2,,604.49,"55,869",52.9,47.5,37.1,38.8
+Baldwin AL,6141,64,110.1258954,13.44,51.85,33.7,9.3,16.9,,2027.08,"223,234",54.1,49.6,33.5,33.9
+Barbour AL,927,9,27.28971136,19.36,40.35,46.6,6.4,12.4,,904.59,"24,686",44.9,35.8,41.5,51.6
 Bibb,708,12,35.80175859,16.68,40.05,43.0,5.5,11.4,,625.5,"22,394",42.7,37.4,40.7,45.2
 Blount,1681,16,88.87420272,15.06,40.35,40.0,5.0,10.3,,650.65,"57,826",43.1,37.6,38.4,41.6
 Bullock,619,16,16.13294788,23.33,38.75,49.0,7.0,14.1,,626.11,"10,101",43.0,34.5,41.9,56.0
